@@ -10,7 +10,8 @@ It is a simple way to package scripts in a container and “install” them on t
 Make changes in the Dockerfile for the scripts you want to copy to the container
 
 ......
-# Copy only the scripts folder into the container
+Copy only the scripts folder into the container
+
 COPY scripts/ /installer/scripts/
 
 NOTE: The "scripts/" can be anything.
