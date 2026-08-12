@@ -1,9 +1,1 @@
-[
-  {
-    "name": "Test-Rag",
-    "subfolder": "Test-Rag",
-    "deployment": "tf-deployment",
-    "environment": "dev",
-    "cloud_provider": "azure"
-  }
-]
+[]
